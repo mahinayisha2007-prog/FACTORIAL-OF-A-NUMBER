@@ -61,8 +61,11 @@ THICK: RET
 THIN:  
 
 END
+**Input:**
+<img width="979" height="534" alt="image" src="https://github.com/user-attachments/assets/62a21e04-e4fd-488a-8e6d-74c52f022925" />
 
 **Output:**  
+<img width="966" height="532" alt="image" src="https://github.com/user-attachments/assets/a202309b-8a30-4e30-a698-33cff16c66c0" />
 
 <br>
 <br>
@@ -71,6 +74,7 @@ END
 
 
 **Manual Calculations:**  
+![WhatsApp Image 2025-11-09 at 19 23 18_8a6d3608](https://github.com/user-attachments/assets/01c6325a-105a-4f5d-a4d2-335d543f2072)
 
 <br>
 <br>
